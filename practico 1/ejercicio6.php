@@ -7,6 +7,7 @@
     <title>ejercicio 6</title>
 </head>
 <body>
+    <!--- confecciono el formulario para mandar datos al metodo --->
     <form action="ejercicio6.1.php" method="get">
         <input type="text" name="name" placeholder="inserte su nombre">
         <input type="text" name="surname" placeholder="inserte su apellido">
