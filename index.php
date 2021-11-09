@@ -14,11 +14,11 @@
     <a href="practico 1/ejercicio3.php" target="ia">Trabajo 3</a>
     <a href="practico 1/ejercicio4.php" target="ia">Trabajo 4</a>
     <a href="practico 1/ejercicio5.php" target="ia">Trabajo 5</a>
-    <a href="practico 1/ejercicio6.php" target="ia">Trabajo 6</a></p><br>
+    <a href="practico 1/ejercicio6.php" target="ia">Trabajo 6</a></p>
 
     <hr>
 
-    <iframe src="about:blank" name="ia" height="device-height" width="device-width"  title="Iframe trabajos"></iframe>
+    <iframe src="about:blank" name="ia" title="Iframe trabajos"></iframe>
 
 
 </body>
